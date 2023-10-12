@@ -1,0 +1,6 @@
+Invoking command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/z/下载/rm_vision-main/src/rm_vision_bringup -DCMAKE_INSTALL_PREFIX=/home/z/下载/rm_vision-main/install/rm_vision_bringup
+Invoked command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/z/下载/rm_vision-main/src/rm_vision_bringup -DCMAKE_INSTALL_PREFIX=/home/z/下载/rm_vision-main/install/rm_vision_bringup
+Invoking command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/z/下载/rm_vision-main/build/rm_vision_bringup -- -j16 -l16
+Invoked command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/z/下载/rm_vision-main/build/rm_vision_bringup -- -j16 -l16
+Invoking command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/z/下载/rm_vision-main/build/rm_vision_bringup
+Invoked command in '/home/z/下载/rm_vision-main/build/rm_vision_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/z/下载/rm_vision-main/build/rm_vision_bringup
